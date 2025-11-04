@@ -21,8 +21,8 @@ curl gi.caml.cc/go,macos > .gitignore
 ## Development
 
 ```bash
-git clone https://github.com/caml-cc/al-gi
-cd al-gi
+git clone https://github.com/caml-cc/gi
+cd gi
 make full
 ```
 
