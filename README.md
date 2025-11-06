@@ -27,3 +27,5 @@ make full
 ```
 
 > G.I., your government has abandoned you. They have ordered you to die. Don’t trust them. They lied to you, G.I.s, you know you cannot win this war.
+
+<small>__All templates used in this project have been copied from [Github gitignore](https://github.com/github/gitignore)__</small>
