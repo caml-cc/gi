@@ -24,7 +24,7 @@ func rateLimiter(next http.Handler) http.Handler {
 			windowStart = now
 		}
 
-		if requestCount >= 100 {
+		if requestCount >= 1000 {
 			w.WriteHeader(http.StatusTooManyRequests)
 			return
 		}
